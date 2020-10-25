@@ -1,3 +1,3 @@
-[submodule "docker/code/fifa_search_front"]
-	path = docker/code/fifa_search_front
-	url = https://github.com/ogaru-sh/fifaSearch.git
+[submodule "docker/code/front"]
+	path = docker/code/front
+	url = https://github.com/ogaru-sh/fifa_search_front.git
